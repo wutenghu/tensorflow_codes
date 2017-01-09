@@ -1,3 +1,7 @@
+# A matrix factorization model based on tensorflow
+# Author: Wu Tenghu
+# Github:
+# January 10 - 2017
 import tensorflow as tf
 from data_loader import *
 
